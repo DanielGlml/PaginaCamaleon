@@ -19,6 +19,7 @@ body{
 }
 
 .colornamecontainer{
+    width: 600px;
     display: flex;
     place-content: center;
     margin: 50px;
